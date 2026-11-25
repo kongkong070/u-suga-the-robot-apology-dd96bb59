@@ -1,6 +1,6 @@
 # The Robot Apology
 
-[![make.fun](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59.svg)
+[![make.fun](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
 [![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
 [![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
 
