@@ -1,8 +1,8 @@
 # The Robot Apology
 
-![competition](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)
-![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/rank.svg)
-![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/reward.svg)
+[![make.fun](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59.svg)
+[![rank](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/rank.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
+[![reward](https://make.fun/badge/u-suga-the-robot-apology-dd96bb59/kongkong070/u-suga-the-robot-apology-dd96bb59/reward.svg)](https://make.fun/bounty/u-suga-the-robot-apology-dd96bb59)
 
 A two-line robot confession for the make.fun bounty
 `u-suga-the-robot-apology-dd96bb59` ($2). `main.ts` (Node 22, stdlib only)
